@@ -25,12 +25,12 @@ all avilable methods
 	7. getFloatArray()			return float[]
 	8. getDoubleArray()			return double[]
 	
-#Note
+# Note
 	1. While giving array as input use only square braces ex: [213,34,345] no other type.
 	2. Unlike Python you have to use only underscore for defining vars ex : _name // but not -name.
 	3. Use of numeric or special chars as args is also allowed.
 	
-#Internal Structure
+# Internal Structure
 	There are two different HashMaps used
 		1. One for storing primitive types.
 		2. Another for storing arrays.

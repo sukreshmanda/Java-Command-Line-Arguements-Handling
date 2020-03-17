@@ -4,18 +4,19 @@
 
 for using please follow the instructions as follows 
 
-1. import Parser.Parser; or import Parser //directly from java or class file
-2. Parser p = new Parser(args); // args[] is the command line input for java
-3. int a = p.getInt("age");
-4. float[] b = p.getFloatArray("name");
-5. float c = p.getFloat("salary");
+	1. import Parser.Parser; or import Parser //directly from java or class file
+	2. Parser p = new Parser(args); // args[] is the command line input for java
+	3. int a = p.getInt("age");
+	4. float[] b = p.getFloatArray("name");
+	5. float c = p.getFloat("salary");
 
 ![$ javac Test  _age 123  _name [123,234,34]  _salary 23.324 ](https://github.com/sukreshmanda/Java-Command-Line-Arguements-Handling/blob/master/example.png)
 
 
 # documentation
 
-all avilable methods 
+all avilable methods
+
 	1. getString()				return String
 	2. getInt()					return int
 	3. getFloat()				return float

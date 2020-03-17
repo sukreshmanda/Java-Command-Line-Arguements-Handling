@@ -10,7 +10,7 @@ for using please follow the instructions as follows
 4. float[] b = p.getFloatArray("name");
 5. float c = p.getFloat("salary");
 
-![$ javac Test _age 123 _name [123,234,34] _salary 23.324 ](http://www.google.com/)
+![$ javac Test  _age 123  _name [123,234,34]  _salary 23.324 ](https://github.com/sukreshmanda/Java-Command-Line-Arguements-Handling/blob/master/example.png)
 
 
 # documentation
